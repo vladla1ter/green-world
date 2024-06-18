@@ -1,0 +1,66 @@
+body {
+   
+}
+
+h1 {
+
+}
+        
+  .one {
+background-color: green;
+display:flex ;
+justify-content: space-evenly;
+position: fixed;
+width: 100%;
+top:0px;
+  }
+  img{
+    width: 80px;
+    height: 80px;
+  }
+  h2{
+    text-align: center;
+  }
+  P{
+    text-align: center;
+  }
+ 
+  main img{
+    width: 220px ;
+    height: 210px;
+  }
+  .bounty{
+    padding:100px ;
+  }
+  .lakes{
+display:flex;
+gap:30px;
+justify-content:center;
+flex-wrap:wrap;
+  }
+  .lake-kard img{
+	 display:block;
+	 width:100%;
+	 height:250px;
+	 object-fit: cover;
+	
+  }
+  .lake-kard{
+	  width:300px;
+	  background-color:#c9c9c9;
+	  padding:15px;
+  }
+  .hop{
+	  display:flex;
+	  align-items:center ;
+	  justify-content: center;
+	  gap:30px;
+  }
+  h2{
+	  text-align:center;
+	  font-size:28px;
+  }
+  .hop p{
+	  width:400px;
+  }
+  
